@@ -1,4 +1,4 @@
-# daily_condition_record
+# Daily-Condition-Record
 컨디션 데일리 기록 일기 앱
 
 필수기능
